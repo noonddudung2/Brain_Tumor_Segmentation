@@ -24,4 +24,6 @@ Each augmentation method has selected randomly. For Ratation Augmentation the de
 
 ## Model-Architecture
 * [U-net Architecture](<https://arxiv.org/pdf/1505.04597.pdf%EF%BC%89>)
+  ![image](https://github.com/noonddudung2/Brain_Tumor_Segmentation/assets/159917478/298b1ab7-7c76-415b-b43e-ad1e485f911f)
+
 * [ResUnet](<https://arxiv.org/pdf/1711.10684.pdf>)
